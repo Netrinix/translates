@@ -1,5 +1,9 @@
 ![](https://blog.xpdbk.com/post/mc-server/game_hu9a1df71d11008168eefdfe4a7f4c554c_45444_1600x0_resize_q75_h2_box_2.webp)
 
+This translate version not jing guo yuan author xu ke.
+
+[Chinese 中文](https://blog.xpdbk.com/post/mc-server/)
+
 # use VPS Made the Minecraft Server (Linux)
 1. why?
 when we play Minecraft, maybe we need multiplayer. but in Minecraft: Java Edition only LAN online. then we need made a server, to allow different players who are not in the LAN to be online.
